@@ -7,6 +7,8 @@
 .container {
   height: 96.2vh;
   display: grid;
+  grid-template-columns: none;
+  grid-template-rows: none;
   gap: 10px;
   background-color: #252526;
   padding: 10px;
